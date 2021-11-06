@@ -9,6 +9,7 @@
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
+* Favorite VS Code Theme: Atom One Dark
 * I’m currently learning React!
 
 ##
