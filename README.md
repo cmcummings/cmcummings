@@ -1,9 +1,8 @@
 ### About Me
 
-I am an undergraduate Computer Science major at Illinois Institute of Technology.
-
-### Currently...
-- I'm learning JavaScript and React
+- 🎓 I'm an undergraduate Computer Science major at Illinois Institute of Technology.
+- 
+- 🌱 I'm currently learning JavaScript and React
 
 <!--
 **gestalt8003/gestalt8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
