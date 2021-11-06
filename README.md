@@ -4,13 +4,15 @@
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
 
 #### Languages
-- Adept at Python (https://github.com/gestalt8003/pong) and Lua
+- Adept at Python and Lua
 - Basic knowledge of HTML, CSS, JavaScript, and Java
 
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
 * I’m currently learning React!
+
+- [ ] https://github.com/gestalt8003/pong
 
 <!--
 **gestalt8003/gestalt8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
