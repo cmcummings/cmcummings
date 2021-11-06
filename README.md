@@ -1,10 +1,16 @@
-### About Me
+## About Me
+[LinkedIn](https://www.linkedin.com/in/connormcummings/) | cmcummings2003@gmail.com
 
-- 🎓 I'm an undergraduate Computer Science major at Illinois Institute of Technology.
-- ⏳ I started out coding on Roblox using Lua.
+* 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
+
+#### Languages
+- Adept at Python and Lua
+- Basic knowledge of HTML, CSS, JavaScript, and Java
 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/connormcummings/)
+#### Fun facts
+* ⏳ Started out coding on Roblox using Lua.
+* 🌱 I’m currently learning React!
 
 <!--
 **gestalt8003/gestalt8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
