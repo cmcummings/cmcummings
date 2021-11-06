@@ -3,8 +3,9 @@
 - 🎓 I'm an undergraduate Computer Science major at Illinois Institute of Technology.
 - ⏳ I started out coding on Roblox using Lua.
 
-- 📫 How to reach me: `cmcummings2003@gmail.com`
-- 
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/connormcummings/) || `cmcummings2003@gmail.com`
+
 <!--
 **gestalt8003/gestalt8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
