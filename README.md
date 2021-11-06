@@ -1,6 +1,6 @@
 ### About Me
 
-I am an undergraduate computer science major at Illinois Institute of Technology.
+I am an undergraduate Computer Science major at Illinois Institute of Technology.
 
 ### Currently...
 - I'm learning JavaScript and React
