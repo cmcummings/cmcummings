@@ -1,8 +1,9 @@
-# Connor Cummings
+### About Me
 
 I am an undergraduate computer science major at Illinois Institute of Technology.
 
-- 🌱 I’m currently learning JavaScript and React
+### Currently...
+- I'm learning JavaScript and React
 
 <!--
 **gestalt8003/gestalt8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
