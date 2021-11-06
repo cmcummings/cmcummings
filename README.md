@@ -1,7 +1,8 @@
 ### About Me
 
 - 🎓 I'm an undergraduate Computer Science major at Illinois Institute of Technology.
-- 
+- ⏳ I started out coding on Roblox using Lua.
+
 - 🌱 I'm currently learning JavaScript and React
 
 <!--
