@@ -4,7 +4,7 @@
 - ⏳ I started out coding on Roblox using Lua.
 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/connormcummings/) || `cmcummings2003@gmail.com`
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/connormcummings/)
 
 <!--
 **gestalt8003/gestalt8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
