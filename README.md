@@ -1,6 +1,8 @@
 ## About Me
 [LinkedIn](https://www.linkedin.com/in/connormcummings/) | cmcummings2003@gmail.com
 
+[![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gestalt8003)](https://github.com/anuraghazra/github-readme-stats)
+
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
 
 #### Languages
