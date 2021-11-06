@@ -4,7 +4,7 @@
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
 
 #### Languages
-- Adept at Python and Lua
+- Adept at Python (https://github.com/gestalt8003/pong) and Lua
 - Basic knowledge of HTML, CSS, JavaScript, and Java
 
 
