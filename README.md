@@ -9,8 +9,8 @@
 
 
 #### Fun facts
-* ⏳ Started out coding on Roblox using Lua.
-* 🌱 I’m currently learning React!
+* Started out coding on Roblox using Lua.
+* I’m currently learning React!
 
 <!--
 **gestalt8003/gestalt8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
