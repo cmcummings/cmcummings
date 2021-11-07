@@ -1,5 +1,5 @@
 ## About Me
-[LinkedIn](https://www.linkedin.com/in/connormcummings/) | cmcummings2003@gmail.com
+[LinkedIn](https://www.linkedin.com/in/connormcummings/) • cmcummings2003@gmail.com
 
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
 
