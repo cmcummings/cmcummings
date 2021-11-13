@@ -4,8 +4,8 @@
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
 
 #### Languages & Technolgies
-- Adept at Python (Flask) and Lua
-- Familiar with HTML, CSS, JavaScript (JSX/React), and Java
+- Adept at Python and Lua
+- Familiar with HTML, CSS, JavaScript, and Java
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
