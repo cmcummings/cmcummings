@@ -5,7 +5,7 @@
 
 #### Languages & Technolgies
 - Adept at Python and Lua
-- Familiar with HTML, CSS, JavaScript, and Java
+- Familiar with HTML, CSS, JavaScript, Java, and SQL
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
