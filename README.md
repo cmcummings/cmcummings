@@ -9,12 +9,7 @@
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
-* Favorite VS Code Theme: [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-
-##
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gestalt8003&show_icons=true&theme=tokyonight)
-](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcummings&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+* Catppuccin enjoyer
 
 
 <!--
