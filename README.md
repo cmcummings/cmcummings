@@ -8,4 +8,4 @@ HTML/CSS | JavaScript/TypeScript | Node.js | React.js | Express.js | Python | Fl
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
-* Catppuccin enjoyer.
+* Setup: Linux Mint (Cinnamon), VS Code, Firefox, Guake+Zsh, Catppuccin
