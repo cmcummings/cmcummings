@@ -1,4 +1,4 @@
-## About Me
+## Connor Cummings
 [LinkedIn](https://www.linkedin.com/in/connormcummings/) • cmcummings2003@gmail.com
 
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
