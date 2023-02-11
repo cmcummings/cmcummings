@@ -10,4 +10,5 @@ Learning: Haskell
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
-* Setup: Linux Mint (Cinnamon), VS Code, Firefox, Guake+Zsh, Catppuccin
+* Setup: Linux Mint (Cinnamon), VS Code, Firefox, Guake+Zsh
+* Catppuccin enjoyer
