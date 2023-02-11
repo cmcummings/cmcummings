@@ -4,7 +4,7 @@
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
 
 #### Languages & Technolgies
-HTML/CSS | JavaScript/TypeScript | Node.js | React.js | Express.js | Python | Flask | PostgreSQL | OracleSQL | MongoDB | Lua | Java | C | Racket
+HTML/CSS | JavaScript/TypeScript | Node.js | React.js | Express.js | Next.js | Python | Flask | PostgreSQL | OracleSQL | MongoDB | Prisma | Lua | Java | C | Racket
 
 #### Fun facts
 * Started out coding on Roblox using Lua.
