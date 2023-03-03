@@ -4,11 +4,12 @@
 * 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
 
 #### Languages & Technolgies
-- JavaScript (TypeScript, Node.js, React.js, Express.js, Next.js, Prisma) 
-- Python (Flask) 
+- JavaScript (TypeScript, Node, React, Express) 
+- Python (Flask)
 - HTML / CSS (TailwindCSS, Bootstrap) 
 - PostgreSQL, OracleSQL, MongoDB
-- Lua, Java, C, Racket
+
+Other interests: Lua, C
 
 Learning: Haskell
 
