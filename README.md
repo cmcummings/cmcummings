@@ -1,17 +1,17 @@
-## Connor Cummings
-* 🎓 Undergraduate Computer Science major at Illinois Institute of Technology.
+# Connor Cummings
+[Portfolio](https://cmcummings.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/connormcummings) • [connormcummings@gmail.com](mailto:connormcummings@gmail.com)
 
-#### Languages & Technolgies
-- JavaScript (TypeScript, Node, React, Express) 
+- 🎓 Undergraduate Computer Science student at Illinois Institute of Technology.
+
+### Languages & Technologies
+- JavaScript (TypeScript, React, Node, Express, Remix) 
+- HTML / CSS (Tailwind, Bootstrap) 
 - Python (Flask)
-- HTML / CSS (TailwindCSS, Bootstrap) 
-- PostgreSQL, OracleSQL, MongoDB
+- PostgreSQL, MongoDB
 
-Other interests: Lua, C
 
-Learning: Haskell
-
-#### Fun facts
-* Started out coding on Roblox using Lua.
+### Fun facts
 * Setup: Linux Mint (Cinnamon), VS Code w/ Vim Motions, Firefox, Alacritty+Zsh
+* Started out coding on Roblox using Lua
+* Other interests: C, Haskell
 * Catppuccin enjoyer
