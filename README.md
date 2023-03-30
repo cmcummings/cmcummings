@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Connor Cummings</h1>
   
-  [connormcummings@gmail.com](mailto:connormcummings@gmail.com)  
-  [Portfolio](https://cmcummings.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/connormcummings)
+  <h3>
+    <a href="mailto:connormcummings@gmail.com">connormcummings@gmail.com</a>
+    <br/><a href="https://cmcummings.netlify.app/">Portfolio</a> • <a href="https://www.linkedin.com/in/connormcummings">LinkedIn</a>
+  </h3>
   
   CS Undergrad @ Illinois Institute of Technology  
   Web Developer 
