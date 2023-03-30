@@ -1,22 +1,13 @@
 <div align="center">
-  <h3>Connor Cummings</h3>
+  <h1>Connor Cummings</h1>
   
   [connormcummings@gmail.com](mailto:connormcummings@gmail.com)  
   [Portfolio](https://cmcummings.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/connormcummings)
+  
+  CS Undergrad @ Illinois Institute of Technology  
+  Web Developer 
+  
+  <br/><br/>
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcummings&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
----
-
-- 🎓 Undergraduate Computer Science student at Illinois Institute of Technology.
-
-### Languages & Technologies
-- JavaScript (TypeScript, React, Node, Express, Remix) 
-- HTML / CSS (Tailwind, Bootstrap) 
-- Python (Flask)
-- PostgreSQL, MongoDB
-
-### Fun facts
-* Setup: Linux Mint (Cinnamon), VS Code w/ Vim Motions, Firefox, Alacritty+Zsh
-* Started out coding on Roblox using Lua
-* Other interests: C, Haskell
-* Catppuccin enjoyer
