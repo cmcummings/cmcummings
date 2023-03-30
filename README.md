@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Connor Cummings</h2>
+  <h1>Connor Cummings</h1>
   
   [connormcummings@gmail.com](mailto:connormcummings@gmail.com)  
   [Portfolio](https://cmcummings.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/connormcummings)
