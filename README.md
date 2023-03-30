@@ -1,5 +1,9 @@
 <div align="center">
-  <h3>Connor Cummings</h3>
+  <div id="user-content-toc">
+    <ul>
+      <summary><h1 style="display: inline-block;">Connor Cummings</h1></summary>
+    </ul>
+  </div>
   
   [connormcummings@gmail.com](mailto:connormcummings@gmail.com)  
   [Portfolio](https://cmcummings.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/connormcummings)
