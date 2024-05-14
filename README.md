@@ -3,7 +3,7 @@
   
   [connormcummings@gmail.com](mailto:connormcummings@gmail.com) • [cmcummings.dev](https://cmcummings.dev) • [in/connormcummings](https://www.linkedin.com/in/connormcummings)
   
-  CS Undergrad @ Illinois Institute of Technology  
+  B.S. Computer Science @ Illinois Institute of Technology  
   Software Developer Intern @ Koya DocuTracker
   
   <br/><br/>
