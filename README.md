@@ -4,6 +4,7 @@
   [connormcummings@gmail.com](mailto:connormcummings@gmail.com) • [cmcummings.dev](https://cmcummings.dev) • [in/connormcummings](https://www.linkedin.com/in/connormcummings)
   
   Software Engineer @ Koya DocuTracker
+  
   B.S. in Computer Science @ Illinois Institute of Technology  
   
   <br/><br/>
